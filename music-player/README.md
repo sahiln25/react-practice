@@ -1,0 +1,1 @@
+Music Player app based off of Udemy tutorial that interacts with the spotify API to allow user to search for artist and play song previews.
