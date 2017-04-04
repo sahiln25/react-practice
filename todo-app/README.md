@@ -1,0 +1,1 @@
+Simple client-side todo app based off of Udemy tutorial (for redux practice) that takes a task as input along with date and allows user to add or delete items (or clear all items). 
